@@ -646,3 +646,4 @@ function findBestFlixHQMatch(searchResults: FlixHQSearchResponse, tmdbDetails: T
         console.warn('TMDB API key not found. Using default key.');
     }
 });
+export default app;
